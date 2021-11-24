@@ -43,6 +43,6 @@ repositories {
 
 dependencies {
     implementation 'androidx.annotation:annotation:1.2.0'
-    implementation 'com.arthenica:ffmpeg-kit-audio:4.5.LTS.LTS'
+    implementation 'com.arthenica:ffmpeg-kit-audio:4.5.LTS'
 }
 
