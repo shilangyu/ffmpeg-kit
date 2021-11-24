@@ -1,5 +1,5 @@
 /.tmp/
 /*.log
-/prebuilt/
+# /prebuilt/
 .DS_Store
 .idea
